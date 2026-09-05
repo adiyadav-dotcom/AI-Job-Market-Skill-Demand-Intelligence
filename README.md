@@ -154,6 +154,7 @@ Historical time-series analysis
 AI-powered career recommendations
 
 📁 Project Structure
+
 AI-Job-Market-Skill-Demand-Intelligence/
 │
 ├── README.md

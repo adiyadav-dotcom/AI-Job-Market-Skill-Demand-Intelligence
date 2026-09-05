@@ -52,6 +52,7 @@ Average Experience
 Skill Demand
 Average Jobs per Company
 Average Jobs per Location
+
 🧹 Data Cleaning & Preparation
 
 Python was used to prepare the dataset before performing analysis.
@@ -83,6 +84,7 @@ Job distribution by industry
 Average salary by experience level
 Most frequently required skills
 Relationships between roles, skills, experience, and salary
+
 🧮 DAX Analysis
 
 DAX measures were created in Power BI to calculate important business metrics.
@@ -111,6 +113,7 @@ Machine Learning and cloud technologies are important skills across AI & Data ro
 Salary generally increases with professional experience.
 Senior and Lead-level positions tend to have higher compensation.
 Bangalore, Hyderabad, and Pune are important locations for AI & Data opportunities in the analyzed dataset.
+
 🎯 Business & Career Recommendations
 For Students & Job Seekers
 
@@ -149,6 +152,7 @@ Automated alerts for emerging skills
 Job recommendation systems
 Historical time-series analysis
 AI-powered career recommendations
+
 📁 Project Structure
 AI-Job-Market-Skill-Demand-Intelligence/
 │
@@ -177,6 +181,7 @@ AI-Job-Market-Skill-Demand-Intelligence/
 │
 └── Documentation/
     └── Project_Documentation.pdf
+    
 📸 Dashboard Screenshots
 Main Dashboard
 
@@ -221,6 +226,7 @@ Company & Location Analysis
 Business Insights
 Career Recommendations
 Professional GitHub Portfolio Project
+
 📌 Conclusion
 
 AI Job Market & Skill Demand Intelligence demonstrates a complete analytics workflow from raw data preparation to interactive business intelligence.

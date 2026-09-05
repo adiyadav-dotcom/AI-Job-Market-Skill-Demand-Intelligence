@@ -2,6 +2,7 @@
 End-to-end AI job market and skill demand analytics project using Python, SQL, Power BI, DAX and Excel.
 
 📊 Power BI Dashboard
+
 The project contains 7 interactive dashboard pages:
 
 1. Main Page
